@@ -1,0 +1,38 @@
+# INTRO - EL COMPONENTE SILENCIOSO
+
+
+NARRADOR
+Este video iba a tratar de este pequeño aparatito tan usado y tan poco divulgado.
+
+.VISUAL: Yo mostrando un opamp moderno y luego una imagen del opamp
+
+
+NARRADOR
+Porque cuando hablamos de inventos revolucionarios en electrónica, casi todas las luces se las lleva el transistor. Y con razón: el transistor, nacido en Bell Labs en 1947, fue la revolución física que hizo posible la electrónica moderna.
+
+
+NARRADOR
+Pero hay otro protagonista, mucho más silencioso, que cambió la forma en la que diseñamos circuitos: el amplificador operacional, o simplemente, el opamp.
+
+[[VISUAL: Aparece en pantalla un opamp como bloque triangular. Luego, sensores, audio, filtros y fuentes.]]
+
+NARRADOR
+Hoy el opamp es uno de los bloques fundamentales de la electrónica. Está en sensores, instrumentos de medición, filtros, audio, fuentes, sistemas de control y en casi cualquier circuito que tenga que tomar una señal débil del mundo real y convertirla en algo útil.
+
+NARRADOR
+Paul Horowitz, en El Arte de la Electrónica, lo presenta casi como el componente ideal: una pieza que, cuando se usa bien, permite construir circuitos elegantes, precisos y sorprendentemente poderosos.
+
+NARRADOR
+El opamp es el LEGO de la electrónica.
+
+NARRADOR
+Pero para entender por qué este componente llegó a ser tan importante, no basta con mirar el chip moderno.
+Tenemos que viajar a una época anterior al opamp tal como lo conocemos, anterior al circuito integrado y sorprendentemente, anterior al transistor.
+
+NARRADOR
+Tenemos que volver a los años veinte, cuando la gran obsesión tecnológica no era todavía la computadora personal ni el microchip, sino algo aparentemente más simple: lograr que una voz humana pudiera viajar cada vez más lejos.
+
+/* NOTAS
+    SER MÁS CLARO DE QUÉ VA EL VIDEO "POR QUÉ EL OPAMP ES IMPORTANTE" - "EL COMPONENTE QUE CAMBIÓ LA ELECTRÓNICA"
+
+ */
