@@ -1,0 +1,3 @@
+[submodule "VID001"]
+	path = VID001
+	url = git@github.com:DenilDenilson/VID001-Historia-Opamps.git
